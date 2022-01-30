@@ -151,11 +151,18 @@ Version  '1.1.1'   : no match
 Version  '1.2'     : match
 ```
 
-Compatible Modules
+Other Python Modules
 -------------------
 
-Version number parsers:
-* [jk_version](https://github.com/jkpubsrc/python-module-jk-version)
+Compatible module(s):
+
+* [jk_version](https://github.com/jkpubsrc/python-module-jk-version) - Version and constraint objects, version number parsing
+
+Recommended other module(s):
+
+* [jk_json](https://github.com/jkpubsrc/python-module-jk-json) - JSON parser, formatter, pretty-printer
+* [jk_prettyprintobj](https://github.com/jkpubsrc/python-module-jk-prettyprintobj) - Mixin for objects for pretty-printing
+* [jk_typing](https://github.com/jkpubsrc/python-module-jk-typing) - Argument type checking for function and method calls
 
 Contact Information
 -------------------
