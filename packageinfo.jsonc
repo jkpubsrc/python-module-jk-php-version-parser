@@ -8,7 +8,7 @@
 		"version": "0.2022.1.30",
 		"packageClass": "python-module",
 		"language": "python3",
-		"development_status": "alpha",
+		"development_status": "stable",
 		"license": "proprietary",
 		"keywords": [
 			"php",
