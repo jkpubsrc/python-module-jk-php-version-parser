@@ -151,6 +151,12 @@ Version  '1.1.1'   : no match
 Version  '1.2'     : match
 ```
 
+Compatible Modules
+-------------------
+
+Version number parsers:
+* [jk_version](https://github.com/jkpubsrc/python-module-jk-version)
+
 Contact Information
 -------------------
 
