@@ -8,7 +8,7 @@ This python module implements version parsing as defined by the PHP tool `compos
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/python-module-jk-php-version-parser)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-php-version-parser)
 * [pypi.python.org](https://pypi.python.org/pypi/jk_php_version_parser)
 
 Why this module?
